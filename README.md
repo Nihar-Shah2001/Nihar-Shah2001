@@ -56,9 +56,11 @@ Beyond academics and research, I have a keen interest in:
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about science and technology. I'm always excited to connect with like-minded individuals and explore new ideas.
 
-## Pronouns: he/him
+### Pronouns: he/him
 
-## Fun fact: I have done my bachelors in Mechanical Engineering but my interests lie at the intersection of Physics, Maths and Theoretical Computer Science.
+## Fun fact: 
+
+I have done my bachelors in Mechanical Engineering but I am doing my Masters in Computer Science and I am planing to do my doctrate in Physics. My interests lie at the intersection of Physics, Maths and Theoretical Computer Science.
 
 ## GitHub Stats
 

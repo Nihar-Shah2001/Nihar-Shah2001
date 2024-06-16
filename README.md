@@ -62,7 +62,7 @@ Feel free to reach out for collaborations, discussions, or just a friendly chat 
 
 ## GitHub Stats
 
-![Nihar's GitHub Stats](https://github.com/Nihar-Shah2001)
+![Nihar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihar-Shah2001&show_icons=true&theme=radical)
 
 ---
 

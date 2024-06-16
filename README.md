@@ -51,8 +51,8 @@ Beyond academics and research, I have a keen interest in:
 ## Let's Connect
 
 - **LinkedIn:** [Nihar Shah](https://www.linkedin.com/in/nihar-shah-86a423235/)
-- **Twitter:** [@NiharShah](https://x.com/NS_NiharShah))
-- **Email:** [nihar.shah@example.com](mailto:niharshah.ns2001@gmail.com)
+- **Twitter:** [@NiharShah](https://x.com/NS_NiharShah)
+- **Email:** [mail@NiharShah](mailto:niharshah.ns2001@gmail.com)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about science and technology. I'm always excited to connect with like-minded individuals and explore new ideas.
 

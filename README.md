@@ -53,6 +53,7 @@ Beyond academics and research, I have a keen interest in:
 - **LinkedIn:** [Nihar Shah](https://www.linkedin.com/in/nihar-shah-86a423235/)
 - **Twitter:** [@NiharShah](https://x.com/NS_NiharShah)
 - **Email:** [mail@NiharShah](mailto:niharshah.ns2001@gmail.com)
+- **Webpage** [wepage/nihar-shah](https://sites.google.com/view/nihar-shah/about-me)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about science and technology. I'm always excited to connect with like-minded individuals and explore new ideas.
 
